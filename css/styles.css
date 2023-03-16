@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    height: 2000px;
+    /* background-image: url(/images/e560bc2ff08a6b6126c0e4cdcf6ad71b.jpg); */
+}
+
+.img {
+    background-size: cover;
+    min-height: 100vh;
+}
+
