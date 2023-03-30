@@ -1,0 +1,1 @@
+alert("Partidul Sor pentru Popor")
